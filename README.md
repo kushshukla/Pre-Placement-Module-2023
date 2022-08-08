@@ -2,9 +2,9 @@
 
 - Name: Kush Shukla
 - University Roll No.: 1900290310075
-- Branch: ECE
+- Branch: Electronics and Communication Engineering
 - Section: B
-- Preferred Programming Language: Java/Python
+- Preferred Programming Language: Java/Python/C++
 
 ## Coding Profiles
 - LeetCode: [Kush_Shukla](https://leetcode.com/kushshukla0001/)
